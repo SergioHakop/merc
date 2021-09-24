@@ -11,7 +11,7 @@ burger.addEventListener('click', () =>{
 })
 
 /*-----------------------------------------------*/
-
+/*
 const modalBtn = document.querySelector('.more');
 const modal = document.querySelector('.modal')
 
@@ -27,4 +27,4 @@ modal.addEventListener('click', (event) =>{
 		modal.classList.add('hidden')
 	}
 
-})
+})*/
